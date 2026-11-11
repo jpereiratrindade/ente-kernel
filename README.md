@@ -36,3 +36,9 @@ The kernel is intentionally small. New state or abstractions should be added onl
 ## License
 
 GNU General Public License v3.0 (`GPL-3.0-only`). See [LICENSE](LICENSE).
+
+## Premissas de desenvolvimento
+
+**Simples, leve. Sempre pronto. Sempre incompleto!**
+
+[Significado e símbolos das premissas](docs/sister-principles/README.md).
